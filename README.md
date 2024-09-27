@@ -1,6 +1,10 @@
 
 # Sales Analysis Dashboard for Tea Products (2021)
 
+[
+[Uploading Project1 - Sales Analysis.pdf…]()
+](url)
+
 ## Project Objectives
 - The primary objective of this project was to develop a comprehensive sales analysis dashboard for a range of tea products, focusing on revenue, profit margins, and customer segments. 
 - This analysis provides insights into **product performance**, **regional sales**, and **customer types** to aid in strategic decision-making for improving sales and profitability.
