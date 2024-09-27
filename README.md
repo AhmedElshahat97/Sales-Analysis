@@ -1,7 +1,14 @@
 
 # Sales Analysis Dashboard for Tea Products (2021)
 
-[Project1 - Sales Analysis.pdf](https://github.com/user-attachments/files/17165029/Project1.-.Sales.Analysis.pdf)
+
+![Project1 - Sales Analysis_page-0001](https://github.com/user-attachments/assets/1b729abf-8724-4bc2-b550-32b189fddbbc)
+![Project1 - Sales Analysis_page-0002](https://github.com/user-attachments/assets/e7ff61d9-95b1-4800-bf00-d426fd708045)
+![Project1 - Sales Analysis_page-0003](https://github.com/user-attachments/assets/7d2d424a-97bf-4444-9cc3-243a2f9739bb)
+![Project1 - Sales Analysis_page-0004](https://github.com/user-attachments/assets/15d52134-c6d5-4769-bc08-7d2efdd8a254)
+![Project1 - Sales Analysis_page-0005](https://github.com/user-attachments/assets/36fa5f31-6dc2-4467-abea-2a76410b1470)
+![Project1 - Sales Analysis_page-0006](https://github.com/user-attachments/assets/060830c3-aa59-4f90-80cc-a4a8eedadd8c)
+![Project1 - Sales Analysis_page-0007](https://github.com/user-attachments/assets/b63dc08c-79db-4295-b86a-44336546b860)
 
 ## Project Objectives
 - The primary objective of this project was to develop a comprehensive sales analysis dashboard for a range of tea products, focusing on revenue, profit margins, and customer segments. 
